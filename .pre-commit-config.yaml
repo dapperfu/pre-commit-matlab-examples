@@ -1,0 +1,6 @@
+repos:
+-   repo: https://github.com/dapperfu/pre-commit-hooks-matlab
+    rev: 2023.09.009
+    hooks:
+    -   id: commitHook
+    -   id: close_simulink_subsystems
