@@ -4,3 +4,4 @@ repos:
     hooks:
     -   id: commitHook
     -   id: close_simulink_subsystems
+    -   id: matlab_smart_indent
