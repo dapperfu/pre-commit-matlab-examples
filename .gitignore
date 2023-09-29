@@ -1,0 +1,4 @@
+**/*.log
+**/run_*.m
+mfiles.txt
+models.txt

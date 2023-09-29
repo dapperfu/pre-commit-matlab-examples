@@ -1,4 +1,4 @@
-function refactoredFunction(x, y)
+function lowComplexityFunction(x, y)
 dispXStatus(x);
 dispYStatus(y);
 dispXYStatus(x, y);

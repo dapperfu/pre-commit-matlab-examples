@@ -2,5 +2,7 @@ repos:
 -   repo: https://github.com/dapperfu/pre-commit-hooks-matlab
     rev: 2023.09.018
     hooks:
-    -   id: close_simulink_subsystems
+    -   id: simulink_close_subsystems
+    -   id: simulink_zoom_subsystems
     -   id: matlab_smart_indent
+    -   id: matlab_justify
